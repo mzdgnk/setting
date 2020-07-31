@@ -3,5 +3,17 @@
 ## tmux
 
 ```
-cp .tmux.conf ~/.tmux.conf
+cp setting/.tmux.conf ~/.tmux.conf
+```
+
+## inputrc
+
+```
+cp setting/.inputrc ~/.inputrc
+```
+
+## vim
+
+```
+cp setting/.vimrc ~/.vimrc
 ```
